@@ -6,6 +6,6 @@ This Django project is an Uzbek-English and English-Uzbek translator, designed t
 
 ## Features
 
-- Translate text from Uzbek to English and vice versa
+- Translate text from Uzbek to English and English to Uzbek too
 - User-friendly web interface
 - Accurate and fast translations
